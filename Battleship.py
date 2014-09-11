@@ -45,5 +45,5 @@ for turn in range (4):
                 print "Game Over"
 
     print "Turn ", turn+1
-    turn++   
+    turn+=1
     print_board(board)
