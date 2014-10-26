@@ -1,1 +1,26 @@
 Parse.initialize("sLdpQ9Dgxl9tScuV3rVjOd7VdzcdTGcp290yS3ZO","hImOTbYt6NeY2ZhddHkCnX2yJSAJ640476DQkcRB");
+
+For example:
+
+$(window).on("html_loaded", function(e) {
+    $(".submit_button").click(function(e) {
+        
+        // 1. Add your Parse keys
+        Parse.initialize("sLdpQ9Dgxl9tScuV3rVjOd7VdzcdTGcp290yS3ZO","hImOTbYt6NeY2ZhddHkCnX2yJSAJ640476DQkcRB");
+        
+        // 2. Create a Parse Query for Post objects
+        var query = new Parse.Query("Post");
+        
+        // 3. Use the get function to retrieve an object
+        //    and print it's text using console.log
+        query.get("8Df2HKKw03", {
+            success: function(object) {
+                console.log();
+            },
+            error: function(error) {
+                console.log("An error occured :(");
+            }
+        });
+        
+    });
+});
