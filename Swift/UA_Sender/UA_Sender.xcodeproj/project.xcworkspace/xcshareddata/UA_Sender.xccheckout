@@ -14,7 +14,7 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>41C677FC1552E95F88392ABC82CCD7A6AE37B5D7</key>
-		<string>code/</string>
+		<string>code</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/andreistephens/Code.git</string>

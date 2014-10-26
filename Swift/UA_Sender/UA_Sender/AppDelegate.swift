@@ -2,6 +2,7 @@
 //  AppDelegate.swift
 //  UA_Sender
 //
+//  App to send push notifications (basic or interactive) using UA API v3
 //  Created by Andrei Stephens on 10/5/14.
 //  Copyright (c) 2014 Andrei Stephens. All rights reserved.
 //

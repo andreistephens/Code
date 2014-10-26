@@ -12,6 +12,7 @@ class DetailViewController: UIViewController {
 
     @IBOutlet weak var detailDescriptionLabel: UILabel!
 
+//    var helloButton : UIButton = UIButton (frame: CGRect(x:0, y:0, width:250, height:60)
 
     var detailItem: AnyObject? {
         didSet {
