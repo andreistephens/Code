@@ -6,15 +6,19 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>6DF6CA1F-F2A0-430E-B84B-B4755A458CBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UA_Sender</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>41C677FC1552E95F88392ABC82CCD7A6AE37B5D7</key>
 		<string>https://github.com/andreistephens/Code.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Swift/UA_Sender/UA_Sender.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>41C677FC1552E95F88392ABC82CCD7A6AE37B5D7</key>
-		<string>code</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/andreistephens/Code.git</string>
@@ -30,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>41C677FC1552E95F88392ABC82CCD7A6AE37B5D7</string>
 			<key>IDESourceControlWCCName</key>
-			<string>code</string>
+			<string>Code</string>
 		</dict>
 	</array>
 </dict>
