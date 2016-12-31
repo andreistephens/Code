@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UA_Sender.xcscheme</key>
+		<key>LR_Concept.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>668DCF5519E1B56A009B1FD8</key>
+		<key>6612D8FE1E17559B0092EC55</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>668DCF6C19E1B56A009B1FD8</key>
+		<key>6612D9121E17559B0092EC55</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6612D91D1E17559B0092EC55</key>
 		<dict>
 			<key>primary</key>
 			<true/>

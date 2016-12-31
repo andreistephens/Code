@@ -1,15 +1,15 @@
 //
-//  UA_SenderTests.swift
-//  UA_SenderTests
+//  LR_ConceptTests.swift
+//  LR_ConceptTests
 //
-//  Created by Andrei Stephens on 10/5/14.
-//  Copyright (c) 2014 Andrei Stephens. All rights reserved.
+//  Created by Andrei Stephens on 12/30/16.
+//  Copyright © 2016 Proof Concepts. All rights reserved.
 //
 
-import UIKit
 import XCTest
+@testable import LR_Concept
 
-class UA_SenderTests: XCTestCase {
+class LR_ConceptTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -23,12 +23,12 @@ class UA_SenderTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssert(true, "Pass")
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measureBlock {
             // Put the code you want to measure the time of here.
         }
     }
